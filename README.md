@@ -1,6 +1,10 @@
 # Overview
 LEVERAGING MULTITHREADING WITH THE NEW JAVA 21 VIRTUAL THREAD
 
+## Technologies
+1. Java 21
+2. Springboot
+
 ## About
 A simple RESTful Springboot project to test out this new feature and
 to see the power of multithreading compared to single threading.
